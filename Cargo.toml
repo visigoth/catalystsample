@@ -9,8 +9,7 @@ edition = "2018"
 [dependencies]
 
 [profile.release]
-panic = "abort"
+#panic = "abort"
 
 [profile.dev]
-panic = "abort"
-
+#panic = "abort"
